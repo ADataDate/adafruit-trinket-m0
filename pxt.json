@@ -1,0 +1,22 @@
+{
+    "name": "adafruit trinket m0",
+    "description": "",
+    "dependencies": {
+        "adafruit-trinket-m0": "*",
+        "bme280": "github:electroniccats/pxt-bme280#v0.1.1",
+        "display": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
